@@ -23,7 +23,9 @@ Through version control, one can
   3. Minimize the possibility of irreversible damage to files.
 
  ##### States
+ 
   ![states](https://1.bp.blogspot.com/-CtkCo1YBqXw/XS34ZPnXLfI/AAAAAAAANXI/3B6VsP-YlbQdYJrulJAZWvHVhQOMIkNAQCLcBGAs/s400/git%2Bstates.png)
+  
   
   ### The local Git repository has three components:
 
