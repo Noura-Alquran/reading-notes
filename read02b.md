@@ -14,4 +14,6 @@ Through version control, one can
   ![Centralized Version Control](https://i0.wp.com/homes.cs.washington.edu/~mernst/advice/version-control-fig2.png?zoom=2)
 #### 3. Distributed Version Control
 ![Distributed Version Control](https://i1.wp.com/homes.cs.washington.edu/~mernst/advice/version-control-fig3.png?zoom=2)
+### Git
+**is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it**.
  
