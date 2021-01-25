@@ -19,3 +19,9 @@ Content in the first column | Content in the second column
 -	SHA references: Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
 -	Issue references within a repository: Any number that refers to an Issue or Pull Request will be automatically converted into a link.
 -	Automatic linking for URLs.
+
+# What is GitHub Pages?
+***GitHub Pages*** is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. 
+* It's free
+* Using git version control
+* It's open source
