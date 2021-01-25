@@ -16,4 +16,11 @@ Through version control, one can
 ![Distributed Version Control](https://i1.wp.com/homes.cs.washington.edu/~mernst/advice/version-control-fig3.png?zoom=2)
 ### Git
 **is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it**.
- 
+  1. Relies on local operations because most necessary information can be found in local resources. 
+
+  2. Detect file corruption or loss of information in transit.
+
+  3. Minimize the possibility of irreversible damage to files.
+
+ ##### States
+  ![states](https://1.bp.blogspot.com/-CtkCo1YBqXw/XS34ZPnXLfI/AAAAAAAANXI/3B6VsP-YlbQdYJrulJAZWvHVhQOMIkNAQCLcBGAs/s400/git%2Bstates.png)
