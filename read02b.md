@@ -22,12 +22,12 @@ Through version control, one can
 
   3. Minimize the possibility of irreversible damage to files.
 
- ##### States
+ **States**
  
   ![states](https://1.bp.blogspot.com/-CtkCo1YBqXw/XS34ZPnXLfI/AAAAAAAANXI/3B6VsP-YlbQdYJrulJAZWvHVhQOMIkNAQCLcBGAs/s400/git%2Bstates.png)
   
   
-  ### The local Git repository has three components:
+  #### The local Git repository has three components:
 
 1. Working Directory: The actual files reside here.
 2. Index: The area used for staging
