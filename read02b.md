@@ -40,3 +40,6 @@ Tracked  | Tracked files can be modified, unmodified, or staged; they were part 
 Untracked| Untracked files were not in the last snapshot and do not currently reside in the staging area.
 
 > After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
+
+### The Life Cycle of File Status
+![image](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
