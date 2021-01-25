@@ -16,5 +16,5 @@
  
  # *About me*
 I am Noura Alquran .. in this page I save notes about how to be my own life coach by learning and reading about mindset concepts on my free time .
-https://github.com/Noura-Alquran
+[My URL](https://github.com/Noura-Alquran)
  
