@@ -4,7 +4,8 @@
 -	Text: **bold** __bold__, *italic* _italic_, ~~crossed out word~~,    [link name] (link address).
 -	Lists: (1.) numbered, (*) bullet points, (-) dashes, sub-points by adding 2 spaces before.
 -	Images: ![image name](image address )
--	Headers and quotes: start line with 1 -6 # for different heading sizes, >quote>.
+-	Headers and quotes: start line with 1 -6 # for different heading sizes, 
+> quote.
 -	Codes :  ``` code language 
              Code
                 ```
@@ -25,3 +26,4 @@ Content in the first column | Content in the second column
 * It's free
 * Using git version control
 * It's open source
+
