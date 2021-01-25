@@ -1,6 +1,7 @@
 # Reading 02b summary
 ## Git Tutorial
  In order to explain Git, we have to first explain various aspects of ***Version Control***.
+ 
  ### Version Control
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Through version control, one can
