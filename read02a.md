@@ -1,5 +1,5 @@
 # Reading 02a summary :
-•	Markdown (.md) is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. It used to control the display of the document; formatting words as bold or italic, adding images, and creating lists...etc.
+###### Markdown (.md) is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform. It used to control the display of the document; formatting words as bold or italic, adding images, and creating lists...etc.
 •	Examples:
 -	***Text***: **bold** __bold__, *italic* _italic_, ~~crossed out word~~,    [link name] (link address).
 -	***Lists***: (1.) numbered, (*) bullet points, (-) dashes, sub-points by adding 2 spaces before.
