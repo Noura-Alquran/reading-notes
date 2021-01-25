@@ -3,6 +3,7 @@
 ![image](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
 
 ## *Mindset characteristic :*
+[The fixed mindset Vs. The growth mindset](http://www.queenannefirstschool.org.uk/wp-content/uploads/A-Guide-to-the-Fixed-Mindset-V-the-Growth-Mindset-MF-Oc.pdf)
 
 
 
