@@ -17,7 +17,7 @@
  # *About me*
 I am Noura Alquran .. in this page I save notes about how to be my own life coach by learning and reading about mindset concepts on my free time .
 
-Github  | 
+My Github account  | 
 ------------ | 
  [![image2](https://p.kindpng.com/picc/s/128-1280192_github-logo-png-github-png-transparent-png.png)](https://github.com/Noura-Alquran)|
  
