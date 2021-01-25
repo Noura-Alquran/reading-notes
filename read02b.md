@@ -2,7 +2,7 @@
 ## Git Tutorial
  In order to explain Git, we have to first explain various aspects of ***Version Control***.
  
- ### Version Control
+***Version Control***
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Through version control, one can
 + revert a file or project to a previous version
@@ -28,7 +28,7 @@ Through version control, one can
   ![states](https://1.bp.blogspot.com/-CtkCo1YBqXw/XS34ZPnXLfI/AAAAAAAANXI/3B6VsP-YlbQdYJrulJAZWvHVhQOMIkNAQCLcBGAs/s400/git%2Bstates.png)
   
   
-  #### The local Git repository has three components:
+  ####  The local Git repository has three components:
 
 1. Working Directory: The actual files reside here.
 2. Index: The area used for staging
