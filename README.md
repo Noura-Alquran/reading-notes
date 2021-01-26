@@ -17,6 +17,13 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
    *  Mindest notes
 * [ what did lab03a teach me?](https://noura-alquran.github.io/reading-notes/lab03a) 
     *  What did lab03a teach me?
+* [Read03b](https://noura-alquran.github.io/reading-notes/Read03b)
+    * HTML structure.
+    * Extra Markup notes.
+    * HTML5 Layout notes.
+    * Process & Design notes.
+
+
 
 
 My Github account  | 
