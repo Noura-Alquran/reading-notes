@@ -1,8 +1,8 @@
 # *Reading-notes*
 
-
- # *About me*
-I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild of interest is in software engineering so I am currently studing at LTUC in software development. On this site I will post my notes about everything new i learn.
+![image](https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-notes-icon-png-image_4256335.jpg)
+#  *About me*
+I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild of interest is in software engineering so I am currently studying at LTUC in software development. On this site I will post my notes about everything new i learn.
 
 # *Table of contents*
 * [home-page](https://noura-alquran.github.io/reading-notes/)  
