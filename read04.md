@@ -1,3 +1,4 @@
+# Reading 04 Summary
 ## Intro + Scripts notes :
 
 * JavaScript used to make websites more interactive( by accessing and modifying the content, Programing rules or instructions the browser can follow ,responding to what the user does) interesting, and user-friendly. 

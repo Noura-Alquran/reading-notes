@@ -1,6 +1,6 @@
 # *Reading-notes*
 
-![image](https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-notes-icon-png-image_4256335.jpg)
+![image](https://files.softicons.com/download/system-icons/windows-8-metro-invert-icons-by-dakirby309/png/512x512/Applications/Notepad.png)
 #  *About me*
 I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild of interest is in software engineering so I am currently studying at LTUC in software development. On this site I will post my notes about everything new i learn.
 
@@ -25,7 +25,10 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 * [Read04](https://noura-alquran.github.io/reading-notes/read04)
     * Intro + Scripts notes.
     * Expressions + Operators notes
-
+* [Read05](https://noura-alquran.github.io/reading-notes/read05)
+    * Comparison operators
+    * Logical operators
+    * Loops 
 
 
 
