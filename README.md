@@ -1,6 +1,6 @@
 # *Reading-notes*
 
-![image](https://files.softicons.com/download/system-icons/windows-8-metro-invert-icons-by-dakirby309/png/512x512/Applications/Notepad.png)
+![image](https://cdn2.iconfinder.com/data/icons/objects-23/50/1F4DD-memo-B-512.png)
 #  *About me*
 I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild of interest is in software engineering so I am currently studying at LTUC in software development. On this site I will post my notes about everything new i learn.
 

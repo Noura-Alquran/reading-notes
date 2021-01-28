@@ -27,7 +27,7 @@
  - Comparison operators usually return single values of true or false.While, logical operators allow you to compare the results of more than one comparison operator.
 - (&&) logical and, it tests more than one condition.
 
-- ( | | ) logical or , it tests at least one condition.
+- (||) logical or , it tests at least one condition.
 
 - ( ! ) logical not , it takes a single boolean value and inverts it .
 
