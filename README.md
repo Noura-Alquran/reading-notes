@@ -29,7 +29,7 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
     * Comparison operators
     * Logical operators
     * Loops 
-*[Read06a](https://noura-alquran.github.io/reading-notes/Read06a)
+* [Read06a](https://noura-alquran.github.io/reading-notes/Read06a)
     * Introdution to CSS
     * CSS Colors
 
