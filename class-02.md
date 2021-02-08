@@ -49,7 +49,7 @@ be subscript.
 
   * If you are just creating a single page, you might decide to put the rules in the same file to keep everything in one place.
 
-  ## Basic JavaScript Instructions:
+## Basic JavaScript Instructions:
   * Each individual instruction on JavaScript file is known as a ***statement***. Statements should end with a semicolon. 
   * JavaScript is case sensitive.
   * It's important to write comments to explain what your code does and that will help you and others who read the code.
@@ -150,7 +150,7 @@ A well-crafted Git commit message is the best way to communicate context about a
   5. Use the imperative mood in the subject line
   6. Wrap the body at 72 characters
   7. Use the body to explain what and why vs. how
-  
+
 
 
   
