@@ -6,34 +6,34 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 
 # *Table of contents*
 ## Code 102 Reading Notes:
-1 | [home-page](https://noura-alquran.github.io/reading-notes/)   
+1|[home-page](https://noura-alquran.github.io/reading-notes/)   
 --|----------  
-2 | [Read02a](https://noura-alquran.github.io/reading-notes/read02a)  
-3 | [Read02b](https://noura-alquran.github.io/reading-notes/read02b) 
-4 | [Mindset](https://noura-alquran.github.io/reading-notes/mindset)   
-5 | [ what did lab03a teach me?](https://noura-alquran.github.io/reading-notes/lab03a)    
-6 | [Read03b](https://noura-alquran.github.io/reading-notes/Read03b)    
-7 | [Read04](https://noura-alquran.github.io/reading-notes/read04)    
-8 | [Read05](https://noura-alquran.github.io/reading-notes/read05)    
-9 |  [Read06a](https://noura-alquran.github.io/reading-notes/Read06a)
+2|[Read02a](https://noura-alquran.github.io/reading-notes/read02a)  
+3|[Read02b](https://noura-alquran.github.io/reading-notes/read02b) 
+4|[Mindset](https://noura-alquran.github.io/reading-notes/mindset)   
+5|[ what did lab03a teach me?](https://noura-alquran.github.io/reading-notes/lab03a)    
+6|[Read03b](https://noura-alquran.github.io/reading-notes/Read03b)    
+7|[Read04](https://noura-alquran.github.io/reading-notes/read04)    
+8|[Read05](https://noura-alquran.github.io/reading-notes/read05)    
+9|[Read06a](https://noura-alquran.github.io/reading-notes/Read06a)
     
 ## Code 201 Reading Notes:
-1 | [class-01](https://noura-alquran.github.io/reading-notes/class-01)
+1|[class-01](https://noura-alquran.github.io/reading-notes/class-01)
 --|-------
-2 | [class-02](https://noura-alquran.github.io/reading-notes/class-02)
-3 | [class-03](https://noura-alquran.github.io/reading-notes/class-03)
-4 | [class-04](https://noura-alquran.github.io/reading-notes/class-04)
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-13 |
-14 |
-15 |
+2|[class-02](https://noura-alquran.github.io/reading-notes/class-02)
+3|[class-03](https://noura-alquran.github.io/reading-notes/class-03)
+4|[class-04](https://noura-alquran.github.io/reading-notes/class-04)
+5|[class-05](https://noura-alquran.github.io/reading-notes/class-05)
+6|
+7|
+8|
+9|
+10|
+11|
+12|
+13|
+14|
+15|
 
 
 
