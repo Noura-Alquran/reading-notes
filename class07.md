@@ -20,7 +20,7 @@ var parkourFail = new EpicFailVideo(7, false);
 var corgiFail = new EpicFailVideo(4, true);
 
 console.log(parkourFail);
-console.log(corgiFail);
+console.log(corgiFail);```
 ```
  - This is object-oriented programming in JavaScript at its most fundamental level.
     + The new keyword instantiates (i.e. creates) an object.
