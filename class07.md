@@ -10,7 +10,6 @@
      3. Using Objects Linking to Other Objects (OLOO)
      4. Using Factory 
 * Example : 
-```
 var EpicFailVideo = function(epicRating, hasAnimals) {
   this.epicRating = epicRating;
   this.hasAnimals = hasAnimals;
@@ -20,8 +19,8 @@ var parkourFail = new EpicFailVideo(7, false);
 var corgiFail = new EpicFailVideo(4, true);
 
 console.log(parkourFail);
-console.log(corgiFail);```
-```
+console.log(corgiFail);
+
  - This is object-oriented programming in JavaScript at its most fundamental level.
     + The new keyword instantiates (i.e. creates) an object.
     + The constructor function initializes properties inside that object using the this variable.
