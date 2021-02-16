@@ -7,6 +7,7 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 # *Table of contents*
 ## Code 102 Reading Notes:
 1|[home-page](https://noura-alquran.github.io/reading-notes/)   
+-|-----------
 2|[Read02a](https://noura-alquran.github.io/reading-notes/read02a)  
 3|[Read02b](https://noura-alquran.github.io/reading-notes/read02b) 
 4|[Mindset](https://noura-alquran.github.io/reading-notes/mindset)   
@@ -18,6 +19,7 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
     
 ## Code 201 Reading Notes:
 1|[class-01](https://noura-alquran.github.io/reading-notes/class-01)
+-|------------
 2|[class-02](https://noura-alquran.github.io/reading-notes/class-02)
 3|[class-03](https://noura-alquran.github.io/reading-notes/class-03)
 4|[class-04](https://noura-alquran.github.io/reading-notes/class-04)
