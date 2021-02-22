@@ -65,7 +65,7 @@
   - **createRadialGradient(x1, y1, r1, x2, y2, r2)** Creates a radial gradient. The parameters represent two circles, one with its center at (x1, y1) and a radius of r1, and the other with its center at (x2, y2) with a radius of r2.
   - **createConicGradient(angle, x, y)** Creates a conic gradient object with a starting angle of angle in radians, at the position (x, y).
 * **gradient.addColorStop(position, color)**  Creates a new color stop on the gradient object. The position is a number between 0.0 and 1.0 and defines the relative position of the color in the gradient, and the color argument must be a string representing a CSS < color >, indicating the color the gradient should reach at that offset into the transition.
-* **createPattern(image, type)** Creates and returns a new canvas pattern object. image is a CanvasImageSource (that is, an HTMLImageElement, another canvas, a <video> element, or the like. type is a string indicating how to use the image.The type specifies how to use the image in order to create the pattern, and must be one of the following string values:
+* **createPattern(image, type)** Creates and returns a new canvas pattern object. image is a CanvasImageSource (that is, an HTMLImageElement, another canvas, a < video > element, or the like. type is a string indicating how to use the image.The type specifies how to use the image in order to create the pattern, and must be one of the following string values:
   - **repeat** : Tiles the image in both vertical and horizontal directions.
   - **repeat-x** : Tiles the image horizontally but not vertically.
   - **repeat-y** : Tiles the image vertically but not horizontally.
