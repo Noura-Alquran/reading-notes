@@ -37,6 +37,8 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 
 ## Code 301 - Intermediate Software Development:
 1|[class-01](https://noura-alquran.github.io/reading-notes/raed3011)
+-|------------------------------
+2|[class-02](https://noura-alquran.github.io/reading-notes/read3012)
 ## Code 401 - Advanced Software Development :
 
 
