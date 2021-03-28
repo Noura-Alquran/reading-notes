@@ -43,6 +43,7 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 4|[class-04](https://noura-alquran.github.io/reading-notes/read3014)
 5|[class-05](https://noura-alquran.github.io/reading-notes/read3015)
 6|[class-06](https://noura-alquran.github.io/reading-notes/read3016)
+7|[class-07](https://noura-alquran.github.io/reading-notes/read3017)
 ## Code 401 - Advanced Software Development :
 
 
