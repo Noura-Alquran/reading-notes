@@ -49,7 +49,10 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 10|[class-10](https://noura-alquran.github.io/reading-notes/read30110)
 11|[class-11](https://noura-alquran.github.io/reading-notes/read3111)
 12|[class-12](https://noura-alquran.github.io/reading-notes/read30112)
-
+13|[class-13](https://noura-alquran.github.io/reading-notes/read30113)
+14|[class-14a](https://noura-alquran.github.io/reading-notes/read30114a)
+15|[class-14b](https://noura-alquran.github.io/reading-notes/read30114b)
+16|[class-15](https://noura-alquran.github.io/reading-notes/read30115)
 
 
 ## Code 401 - Advanced Software Development :
