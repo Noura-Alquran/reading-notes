@@ -44,7 +44,7 @@ class Something(forms.Form):
 * **datetime**: A Python library for manipulating dates and times.
 
 * We use @login_required to require that the user is logged in, and the @permission_required function decorator with our existing can_mark_returned permission to allow access (decorators are processed in order).
-* Add the {%   csrf_token    %} to every Django template you create that uses POST to submit data. This will reduce the chance of forms being hijacked by malicious users.
+* Add the {%   c s r f _ t o k e n    %} to every Django template you create that uses POST to submit data. This will reduce the chance of forms being hijacked by malicious users.
 * ways of using form template variable >> using {{ form.as_table }} each field is rendered as a table row. You can also render each field as a list item (using {{ form.as_ul }} ) or as a paragraph (using {{ form.as_p }}).
 * It is also possible to have complete control over the rendering of each part of the form, by indexing its properties using dot notation.
 * if you just need a form to map the fields of a single model then your model will already define most of the information that you need in your form: fields, labels, help text and so on. Rather than recreating the model definitions in your form, it is easier to use the ModelForm helper class to create the form from your model. This ModelForm can then be used within your views in exactly the same way as an ordinary Form.
