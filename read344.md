@@ -46,4 +46,4 @@ python manage.py runserver --settings=settings.local
   1. Symmetrical encryption
   2. Asymmetrical encryption
   3. Hashing.
- * ![image](https://miro.medium.com/max/1280/1*23RpkZuWAeSP7x0YdMtsdQ.pnghttps://miro.medium.com/max/1280/1*23RpkZuWAeSP7x0YdMtsdQ.pnghttps://miro.medium.com/max/1280/1*23RpkZuWAeSP7x0YdMtsdQ.png)
+ *   ![image](https://miro.medium.com/max/1280/1*23RpkZuWAeSP7x0YdMtsdQ.png)
