@@ -89,8 +89,7 @@ I am Noura Alquran ,24 years old,majoring in Biomedical Engineering , my feild o
 30|[class-36](https://noura-alquran.github.io/reading-notes/read364)
 31|[class-37](https://noura-alquran.github.io/reading-notes/read374)
 32|[class-38](https://noura-alquran.github.io/reading-notes/read384)
-
-
+33|[class-39](https://noura-alquran.github.io/reading-notes/read394)
 
 
 
